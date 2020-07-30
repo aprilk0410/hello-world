@@ -1,2 +1,5 @@
 # hello-world
-New repository
+
+Hi!
+I'm April Kim from UT Austin.
+I'm currently located in Austin :)
